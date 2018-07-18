@@ -11,6 +11,8 @@ Pupil docs static site generator.
 - `Pygments`
   - `pip install pygments` or `pip3 install pygments`
 - `Node` and `npm`
+- `Gulp`
+  - `sudo apt install gulp`
 
 Clone the repo and submodules:
 
