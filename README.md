@@ -11,6 +11,11 @@ Pupil docs static site generator.
 - `Pygments`
   - `pip install pygments` or `pip3 install pygments`
 - `Node` and `npm`
+  - ```
+    sudo apt install nodejs
+    sudo apt install npm
+    ```
+
 
 Clone the repo and submodules:
 
